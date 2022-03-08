@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sin-tag
 - 👀 I’m interested in Computer Vision, AI, App Mobile and Web App.
-- 🌱 I’m currently learning University of Transport and Communications.
-- 💞️ I’m looking to collaborate on GitHub on GitLab.
+- 🌱 I'm studying for a master's degree at University of Transport and Communications.
+- 💞️ I’m looking to collaborate on GitHub and GitLab.
 - 📫 How to reach me in my email: hoangtuyensk@gmail.com.
 If you want to work please contact me.
 <!---
